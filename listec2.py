@@ -17,4 +17,4 @@ for printins in myec2['Reservations']:
 		
 
 
-#print(myec2['Reservations'])
+print(myec2['Reservations'])
